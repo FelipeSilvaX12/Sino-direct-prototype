@@ -1,0 +1,6 @@
+{
+  "name": "SinoDirect",
+  "description": "SinoDirect | Importações Premium da China. Curadoria exclusiva de eletrônicos, moda e utilidades domésticas direto para sua casa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
